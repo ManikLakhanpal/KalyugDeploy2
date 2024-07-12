@@ -41,7 +41,7 @@ const Header = () => {
             smooth
               to="/#home"
             >
-              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#d27916]" >
+              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]" >
                 Home
               </div>
             </HashLink>
@@ -51,7 +51,7 @@ const Header = () => {
               
             >
               {" "}
-              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#d27916]">
+              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]">
                 Overview
               </div>
             </HashLink>
@@ -60,7 +60,7 @@ const Header = () => {
               to="/#prizes"
               
             >
-              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#d27916]">
+              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]">
                 Prizes
               </div>
             </HashLink>
@@ -71,7 +71,7 @@ const Header = () => {
               to="/#team"
               
             >
-              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#d27916]">
+              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]">
                 Past Events
               </div>
             </HashLink>
@@ -80,7 +80,7 @@ const Header = () => {
               to="/#socials"
               
             >
-              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#d27916]">
+              <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]">
                 Socials
               </div>
             </HashLink>

@@ -27,7 +27,7 @@ const HeroPage = () => {
 
   return (
     <section
-      className="w-screen relative h-full bg-[#1f1f1f] flex items-center justify-center flex-col"
+      className="w-screen relative h-full bg-[#22092C] flex items-center justify-center flex-col"
       id="home"
     >
       <Header />
@@ -36,14 +36,14 @@ const HeroPage = () => {
           <div className="flex items-center justify-start flex-col sm:flex-row w-full gap-12 my-2 h-full sm:p-0 s:p-1 md:p-1">
             {/* gif */}
             <div className="flex items-center justify-start w-full md:w-[50%]">
-              <h1 className="text-[2.1rem]  lg:p-2 xs:text-[2.8rem] s:text-5xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#d47612]">
+              <h1 className="text-[2.1rem]  lg:p-2 xs:text-[2.8rem] s:text-5xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#F05941]">
                 KALYUG CHRONICALS
               </h1>
             </div>
           </div>
           <div className="flex items-center justify-start flex-col w-full h-full sm:p-0 s:p-1 md:p-1 gap-2">
             <div className="flex items-center justify-start w-full h-full">
-              <h1 className="text-2xl lg:p-2 xs:text-[2rem]  s:text-4xl sm:text-5xl md:text-6xl lg:text-7xl  whitespace-nowrap font-black sm:leading-tight text-[#d2d2d2]">
+              <h1 className="text-2xl lg:p-2 xs:text-[2rem]  s:text-4xl sm:text-5xl md:text-6xl lg:text-7xl  whitespace-nowrap font-black sm:leading-tight text-[#BE3144]">
                 BUILD A UNICORN
               </h1>
             </div>
