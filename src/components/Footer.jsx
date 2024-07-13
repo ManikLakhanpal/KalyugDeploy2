@@ -12,15 +12,15 @@ const Footer = () => {
           <div className="flex items-center justify-center w-full mb-6">
             <img src={line} alt="line" className="w-full h-6" />
           </div>
-          <h1 className="text-3xl font-serif text-center text-[#333] mb-4">
-            Join us at IGNITE, where challenges turn into triumphs, and every coder is a storyteller of innovation.
+          <h1 className="text-3xl font-black text-center text-[#333] mb-4">
+          Are you willing to take on the challenge?
           </h1>
           <div className="flex items-center justify-center flex-row gap-4 mb-12">
             <Link to="https://docs.google.com/forms/d/e/1FAIpQLSezH9p9sd8QHaBhQO1v7bjHWj8VfEseCkYYyG4uiy3nPL-8nA/viewform?usp=sf_link" className="bg-[#fff] hover:bg-[#f7f7f7] transition duration-200 ease-in-out hover:border hover:border-[#333] rounded-full p-2 flex-1">
-              <button type="submit" className="text-[#333] group-hover:text-[#fff] rounded-full text-xs font-serif">Register Now</button>
+              <button type="submit" className="text-[#333] group-hover:text-[#fff] rounded-full text-xs font-black text-center px-20">Register Now</button>
             </Link>
             <a href={pdf} download="rulebook" className="bg-[#fff] border border-[#333] transition duration-200 ease-in-out rounded-full p-2 flex-1">
-              <button type="submit" className="text-[#333] rounded-full text-xs font-serif">Rule Book</button>
+              <button type="submit" className="text-[#333] rounded-full text-xs font-black text-center px-20">Rule Book</button>
             </a>
           </div>
           <div className="flex items-center justify-center w-full mb-6">
