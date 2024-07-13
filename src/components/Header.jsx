@@ -72,7 +72,7 @@ const Header = () => {
               
             >
               <div className="flex item-center font-black text-sm justify-center cursor-pointer text-[#ffffff] hover:text-[#FFC96F]">
-                Past Events
+                Photos
               </div>
             </HashLink>
             <HashLink
