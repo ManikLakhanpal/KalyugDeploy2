@@ -82,7 +82,7 @@ const Prizes = () => {
             <div className="flex items-center justify-center bg-[#292929] p-4 md:p-6 sm:py-12 w-full h-full relative">
               <div className="flex items-center justify-center flex-row my-4 w-full s:max-w-7xl s:w-[85%] md:w-[90%]">
                 <p className="items-center justify-center inline-block text-center gap-4 text-2xl xs:text-3xl sm:text-4xl p-1 sm:p-2 md:text-5xl lg:text-6xl xl:text-7xl text-[#ffffff] font-black w-full">
-                  Kalyug <span className="text-[#d47916]">Chronicals</span> <span className="text-[#ffffff]">The Unsolved </span> <span className="text-[#d47916]">Crime</span>
+                  Kalyug <span className="text-[#d47916]">Chronicles</span> <span className="text-[#ffffff]">The Unsolved </span> <span className="text-[#d47916]">Crime</span>
                 </p>
                 <img src={vector} alt="vector" className="absolute top-0 left-0 w-8 h-8 sm:h-14 sm:w-14" />
                 <img src={vector} alt="vector" className="absolute bottom-0 right-0 w-8 h-8 sm:h-14 sm:w-14" />
