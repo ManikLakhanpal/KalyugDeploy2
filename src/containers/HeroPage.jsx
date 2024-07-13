@@ -44,7 +44,7 @@ const HeroPage = () => {
           <div className="flex items-center justify-start flex-col w-full h-full sm:p-0 s:p-1 md:p-1 gap-2">
             <div className="flex items-center justify-start w-full h-full">
               <h1 className="text-2xl lg:p-2 xs:text-[2rem]  s:text-4xl sm:text-5xl md:text-6xl lg:text-7xl  whitespace-nowrap font-black sm:leading-tight text-[#BE3144]">
-                BUILD A UNICORN
+                The Unsolved Crime 
               </h1>
             </div>
           </div>
@@ -60,16 +60,19 @@ const HeroPage = () => {
           <div className="w-full h-full flex items-center justify-end sm:p-0 s:p-1 md:p-1">
             <div className="flex items-center justify-center flex-col md:flex-row w-full p-1  gap-6 sm:p-2 my-6">
               <p className="font-normal text-[0.7rem] xs:text-xs sm:text-sm lg:text-lg text-[#d6d5d5] md:w-[50%]">
-                The annual flagship event of the Coding Ninjas CUIET, IGNITE:
-                Build A Unicorn, is an Accathon designed primarily for aspiring
-                entrepreneurs providing the students with an opportunity to
-                delve into the intricacies of building a start-up and developing
-                it into a Unicorn through real-time experience. The students
-                will explore the complexities of market dynamics, start-up
-                management, and tech-assisted problem solving all while using
-                virtual currency. Along with a sizable prize pool, the event is
-                jam-packed with engaging games, sessions, and entertaining
-                activities.
+              
+
+Kalyug Chronicles: The Unsolved Crime
+
+The Coding Ninjas CUIET's flagship event with the biggest opportunity for the students to collaborate and participate at the interdepartmental level.
+
+There are 30 shortlisted teams who will participate in the Kalyug Chronicles.
+
+There are 150 students in the event's participation pool. The focus of the event is on solving mysteries with critical analysis, resource management, intel on codes. Students compete. Students in teams, over a duration of 7 hours.
+
+The event is jam-packed with entertaining activities, engaging sessions, and engaging games.
+
+
               </p>
               <div class="flex items-center justify-center flex-col flex-1 gap-2 w-full h-full xs:p-2 xl:p-0">
                 <div class=" rounded-full p-4 h-12 xs:h-14 s:h-16 md:h-20 lg:h-24 flex items-center justify-start bg-video bg-cover bg-center bg-no-repeat w-full">

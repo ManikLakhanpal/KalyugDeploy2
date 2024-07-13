@@ -17,12 +17,12 @@ const OurTeam = () => {
 
   SwiperCore.use([Autoplay, Navigation, Pagination]);
   return (
-    <section className="w-screen h-full bg-black" id="team">
+    <section className="w-full h-full bg-black" id="team">
       <div className="w-full h-full flex items-center justify-center flex-col py-4 lg:p-2">
         <div className="w-full h-full flex items-start justify-center flex-row py-2 lg:p-2">
           <div className="w-full h-full flex items-start justify-start flex-col p-6">
             <div className="flex items-center justify-start">
-              <h1 className='text-[2rem]  xs:text-[2.7rem] s:text-6xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#e1e1e1] whitespace-nowrap'>PAST EVENTS <span className="text-[#F05941]">.</span></h1>
+              <h1 className='text-[2rem]  xs:text-[2.7rem] s:text-6xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#e1e1e1] whitespace-nowrap'>Event Photos <span className="text-[#F05941]">.</span></h1>
             </div>
             <div className='hidden md:grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 items-center justify-center w-full py-8 my-6'>
               <div className='flex items-center justify-center grid-cols-1 group overflow-hidden relative'>
