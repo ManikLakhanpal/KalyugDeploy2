@@ -9,12 +9,12 @@ const Footer = () => {
       <div className="flex items-center justify-center w-full h-full p-4">
         <div className="flex items-center justify-center w-full h-full xs:p-2">
           <div className="flex items-center justify-center w-full h-full flex-col s:p-2">
-            <div className="flex items-center justify-center w-full h-full flex-col gap-1 p-4 s:p-6 bg-[#d47916] sm:max-w-xl md:max-w-2xl lg:max-w-6xl xl:max-w-4xl  rounded-b-[44px] s:rounded-b-[64px] sm:rounded-b-[96px]  md:rounded-b-[144px]">
+            <div className="flex items-center justify-center w-full h-full flex-col gap-1 p-4 s:p-6 bg-[#BE3144] sm:max-w-xl md:max-w-2xl lg:max-w-6xl xl:max-w-4xl  rounded-b-[44px] s:rounded-b-[64px] sm:rounded-b-[96px]  md:rounded-b-[144px]">
               <div className="flex-items-center justify-center w-[85%] my-6 md:mt-12">
                 <img src={line} alt="line" />
               </div>
               <div className="flex-items-center justify-center w-full sm:w-[80%] md::w-[75%] my-4 xs:my-6">
-                <h1 className="text-2xl xs:text-3xl  text-center s:text-4xl font-black sm:leading-tight text-[#ffffff]">
+                <h1 className="text-2xl xs:text-3xl  text-center s:text-4xl font-black sm:leading-tight text-[#ebebeb]">
                	Join us at IGNITE, where challenges turn into triumphs, and every coder is a storyteller of innovation.
                 </h1>
               </div>
@@ -37,9 +37,9 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex items-center justify-around p-4 w-full h-full sm:flex-row flex-col gap-6">
-                      <p className="text-[#d47916] font-black text-xs md:text-sm lg:text-base">PRIVACY POLICY</p>  
-                      <p className="text-[#d47916] text-center font-black text-xs md:text-sm lg:text-base sm:ml-10">COPYRIGHT @ALL RIGHTS RESERVED</p>  
-                      <p className="text-[#d47916] font-black text-xs md:text-sm lg:text-base">TERMS&CONDITIONS</p>  
+                      <p className="text-[#BE3144] font-black text-xs md:text-sm lg:text-base">PRIVACY POLICY</p>  
+                      <p className="text-[#BE3144] text-center font-black text-xs md:text-sm lg:text-base sm:ml-10">COPYRIGHT @ALL RIGHTS RESERVED</p>  
+                      <p className="text-[#BE3144] font-black text-xs md:text-sm lg:text-base">TERMS&CONDITIONS</p>  
                       
             </div>
           </div>

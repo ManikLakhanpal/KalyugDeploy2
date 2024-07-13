@@ -7,7 +7,7 @@ const Socials = () => {
     <section className="w-screen h-full bg-black" id="socials">
     <div className="w-full h-full flex items-start justify-start flex-col p-6">
         <div className="flex items-center justify-start">
-        <h1 className='text-[2rem]  xs:text-[2.7rem] s:text-6xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#ffffff] whitespace-nowrap'>SOCIALS <span className="text-[#d47916]">.</span></h1>
+        <h1 className='text-[2rem]  xs:text-[2.7rem] s:text-6xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#ffffff] whitespace-nowrap'>SOCIALS <span className="text-[#F05941]">.</span></h1>
         </div>
         <div className='flex md:items-start justify-center  lg:flex-row flex-col py-6 mt-12 w-full h-full'>
         <div className='flex items-center s:justify-start justify-center  lg:justify-center gap-6 flex-1 flex-row p-2 w-full h-full'>

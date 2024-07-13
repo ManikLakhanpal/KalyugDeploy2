@@ -26,7 +26,7 @@ const Prizes = () => {
             <div className="w-full h-full flex items-start justify-start lg:w-[65%] flex-col p-6">
               <div className="flex items-center justify-start">
                 <h1 className="text-[2rem]  xs:text-[2.7rem] s:text-6xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#ffffff]">
-                  PRIZES <span className="text-[#d47916]">.</span>
+                  PRIZES <span className="text-[#F05941]">.</span>
                 </h1>
               </div>
               <div className="xs:flex items-center justify-center flex-row w-full md:w-[75%] lg:w-full  my-6">
@@ -170,16 +170,16 @@ const Prizes = () => {
 
         </div>
         <div className="h-screen hidden md:flex items-center justify-center absolute top-0 bottom-0 left-0 right-0  w-full ">
-          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[45deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#d47916] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
+          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[45deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#BE3144] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
         </div>
         <div className="h-screen hidden md:flex items-center justify-center w-full absolute top-0 bottom-0 left-0 right-0 ">
-          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[-45deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#d47916] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
+          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[-45deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#BE3144] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
         </div>
         <div className="h-screen hidden md:flex items-center justify-center w-full absolute top-0 bottom-0 left-0 right-0 ">
-          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[-135deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#d47916] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
+          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[-135deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#BE3144] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
         </div>
         <div className="h-screen hidden md:flex items-center justify-center w-full absolute top-0 bottom-0 left-0 right-0 ">
-          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[135deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#d47916] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
+          <div className="flex w-full h-full items-center  justify-center py-0 sm:py-2 md:py-4 lg:py-6"><marquee className="py-10 xs:py-12 rotate-[135deg] w-full h-full"><h1 className="flex items-center justify-center gap-4 text-2xl xs:text-3xl s:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#BE3144] font-black">DESIGN YOUR IDEAS <img className='w-8 h-8' src={star2} alt="star2" /> BUILD YOUR STARTUP</h1></marquee></div>
         </div>
 
       </section>
