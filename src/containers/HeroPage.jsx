@@ -37,7 +37,7 @@ const HeroPage = () => {
             {/* gif */}
             <div className="flex items-center justify-start w-full md:w-[50%]">
               <h1 className="text-[2.1rem]  lg:p-2 xs:text-[2.8rem] s:text-5xl sm:text-[4rem] md:text-[5rem] lg:text-8xl xl:text-9xl 2xl:text-[154px] font-black sm:leading-tight text-[#F05941]">
-                KALYUG CHRONICALS
+                KALYUG CHRONICLES 
               </h1>
             </div>
           </div>
